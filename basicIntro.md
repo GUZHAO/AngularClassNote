@@ -21,4 +21,5 @@ import { OnInit } from '@angular/core';
 ``` 
 
 ## Example
+![example](https://github.com/GUZHAO/AngularClassNote/blob/master/Angular%20Class%201%20Example.png)
 
