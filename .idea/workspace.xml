@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="180ce3c0-cfb5-4c61-bed8-4c93ffae9d43" name="Default Changelist" comment="" />
+    <list default="true" id="180ce3c0-cfb5-4c61-bed8-4c93ffae9d43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Angular Class 2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/C1 Example.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1 Example Detail.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/C1 Example Detail.png" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,7 +28,7 @@
     <session id="-1796488132">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="2" />
@@ -33,10 +37,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="2" />
+          <entry key="png" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Image" value="1" />
           <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
@@ -53,20 +59,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basicIntro.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="552">
-                <caret line="23" column="85" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -104,6 +97,11 @@
               <item name="AngularClassNote" type="b2602c69:ProjectViewProjectNode" />
               <item name="AngularClassNote" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AngularClassNote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularClassNote" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -118,6 +116,9 @@
     <property name="settings.editor.selected.configurable" value="com.chrisrm.idea.config" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -146,12 +147,12 @@
       <updated>1533135053243</updated>
       <workItem from="1533135054458" duration="593000" />
       <workItem from="1533302211012" duration="4896000" />
-      <workItem from="1533345742206" duration="341000" />
+      <workItem from="1533345742206" duration="1192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5830000" />
+    <option name="totallyTimeSpent" value="6681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -196,11 +197,14 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="552">
-            <caret line="23" column="85" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
+            <caret line="23" column="90" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="90" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/C1 Example.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
