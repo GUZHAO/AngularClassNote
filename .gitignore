@@ -1,3 +1,8 @@
 
 *.xml
 *.xml
+<<<<<<< HEAD
+=======
+.DS_Store
+*.xml
+>>>>>>> 2c50060c998f7f3b86eaba663793dfa52c17bca7
