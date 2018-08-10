@@ -87,7 +87,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
+=======
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="6">
+=======
+  <component name="ProjectFrameBounds" extendedState="1">
+>>>>>>> 2c50060c998f7f3b86eaba663793dfa52c17bca7
+>>>>>>> 7a22d5f0b0a1f419d4d75dcd9b6a4b52e53a0b0c
     <option name="x" value="42" />
     <option name="y" value="22" />
     <option name="width" value="1398" />
