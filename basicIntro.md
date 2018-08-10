@@ -21,5 +21,11 @@ import { OnInit } from '@angular/core';
 ``` 
 
 ## Example
-![example](https://github.com/GUZHAO/AngularClassNote/blob/master/Angular%20Class%202x.png)
+![example](https://github.com/GUZHAO/AngularClassNote/blob/master/img/C1%20Example.png)
+![example2](https://github.com/GUZHAO/AngularClassNote/blob/master/img/C1%20Example%20Detail.png)
 
+## WebStorm
+- Can use the built in NPM manager to start the server.
+- Can tune tool to display the interface as you like. It's recommended that show related files side by side.
+- Should master the navigation. ⇧⌘O to find files quickly.
+- Explorer how to make the tool serve better.
