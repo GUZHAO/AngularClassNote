@@ -27,5 +27,14 @@ import { OnInit } from '@angular/core';
 ## WebStorm
 - Can use the built in NPM manager to start the server.
 - Can tune tool to display the interface as you like. It's recommended that show related files side by side.
-- Should master the navigation. ⇧⌘O to find files quickly.
+- Should master the navigation. ⇧⌘O to find files quickly. ⌥Enter to import modules quickly.
 - Explorer how to make the tool serve better.
+
+## More Topics
+- RxJS
+- PWA
+- Forms
+- Deploy to Production
+- Unit Testing
+- Angular Material
+

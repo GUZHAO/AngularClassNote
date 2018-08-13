@@ -10,17 +10,13 @@ The goal is to understand how services work in Angular.
         - Directives
         - Pipes
         
-## Architecture
-When having a prototype, it is paramount to break the prototype down into my understanding of Angular components first.
-The purpose is to get a general picture of how many components might be needed.
-
-## onInit
-:thumbsup:
-```javascript
-import { OnInit } from '@angular/core';
-``` 
+## Fetching Data
+Use HttpClient Module to fetch json.
 
 ## Example
+Understand using async to create dynamic components.
+Enum is great for categorical data.
+ProviderIn has global scope.
 
 ## Faking Data for Practice
 [Mockaroo - Realistic Data Generator](https://mockaroo.com/)
