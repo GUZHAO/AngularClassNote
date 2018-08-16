@@ -29,6 +29,7 @@ import { OnInit } from '@angular/core';
 - Can tune tool to display the interface as you like. It's recommended that show related files side by side.
 - Should master the navigation. ⇧⌘O to find files quickly. ⌥Enter to import modules quickly.
 - Explorer how to make the tool serve better.
+- Learn to use --dry-run.
 
 ## More Topics
 - RxJS
