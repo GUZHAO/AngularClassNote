@@ -2,14 +2,20 @@
 
 The goal is to understand how services work in Angular.
 
-## Structure
-- App
-    - Module
-        - Services
-        - Components
-        - Directives
-        - Pipes
-        
+## What's the difference
+- Fetch data
+- Only works with data, no html
+- Singleton
+
+## Understand Class
+- Class
+- Class Instance
+
+## Understand Scope
+- Public
+- Private
+- Protected
+      
 ## Fetching Data
 Use HttpClient Module to fetch json.
 

@@ -38,4 +38,8 @@ import { OnInit } from '@angular/core';
 - Deploy to Production
 - Unit Testing
 - Angular Material
+- CDK: Component Developer Kit
+- Guards(CanActivate) + Protector(CanDeactivate)
+- User Activity Tracking using Routing
+
 
